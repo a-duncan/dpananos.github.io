@@ -19,7 +19,7 @@ Person A has $n$ fair coins, and person B has $n+1$ fair coins.  They each can f
 
 I actually took the liberty of editing this question (the function of $n$ was not included).  Anyway, this is pretty simple.  Suppose $n$ is large enough to justify using a normal approximation.  Then
 
-$$ A \sim \operatorname{normal}\left( \dfrac{n}{2}, \dfrac{n}{4} \right) \>,$$
+$$ A \sim \operatorname{normal}\left( \dfrac{n+1}{2}, \dfrac{n+1}{4} \right) \>,$$
 
 $$ B \sim \operatorname{normal}\left( \dfrac{n}{2}, \dfrac{n}{4} \right) \>.$$
 
